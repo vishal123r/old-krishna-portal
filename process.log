@@ -1,0 +1,301 @@
+# Set up logging to file
+logging.basicConfig(
+    filename='process.log',
+    level=logging.DEBUG,
+    format='%(asctime)s - %(message)s',
+    filemode='w'
+)
+2025-01-02 16:39:24,901 - Next wakeup is due at 2025-01-02 17:39:24.887616+05:30 (in 3599.985998 seconds)
+2025-01-02 16:39:25,127 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-02 16:39:25,127 - Added job "auto_check_for_duplicates" to job store "default"
+2025-01-02 16:39:25,128 - Scheduler started
+2025-01-02 16:39:25,132 - Looking for jobs to run
+2025-01-02 16:39:25,138 - Next wakeup is due at 2025-01-02 17:39:25.127620+05:30 (in 3599.989002 seconds)
+2025-01-02 16:39:25,138 - Next wakeup is due at 2025-01-02 17:39:25.127620+05:30 (in 3599.989002 seconds)
+2025-01-02 16:40:54,961 - Next wakeup is due at 2025-01-02 17:40:54.949275+05:30 (in 3599.988001 seconds)
+2025-01-02 16:40:55,088 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-02 16:40:55,088 - Added job "auto_check_for_duplicates" to job store "default"
+2025-01-02 16:40:55,088 - Scheduler started
+2025-01-02 16:40:55,089 - Looking for jobs to run
+2025-01-02 16:40:55,089 - Looking for jobs to run
+2025-01-02 16:40:55,096 - Next wakeup is due at 2025-01-02 17:40:55.087276+05:30 (in 3599.990998 seconds)
+2025-01-02 16:40:55,096 - Next wakeup is due at 2025-01-02 17:40:55.087276+05:30 (in 3599.990998 seconds)
+2025-01-02 16:40:55,902 - Page 'Process Logs' opened.
+2025-01-02 16:40:55,902 - Page 'Process Logs' opened.
+2025-01-02 16:40:55,908 - Page 'Process Logs' opened.
+2025-01-02 16:40:55,908 - Page 'Process Logs' opened.
+2025-01-02 16:40:55,920 - Page 'Process Logs' closed.
+2025-01-02 16:40:55,920 - Page 'Process Logs' closed.
+2025-01-02 16:40:55,926 - Page 'Process Logs' closed.
+2025-01-02 16:40:55,926 - Page 'Process Logs' closed.
+2025-01-02 16:40:58,297 - Page 'Process Logs' opened.
+2025-01-02 16:40:58,297 - Page 'Process Logs' opened.
+2025-01-02 16:40:58,309 - Page 'Process Logs' closed.
+2025-01-02 16:40:58,309 - Page 'Process Logs' closed.
+2025-01-02 16:41:01,425 - Page 'Process Logs' opened.
+2025-01-02 16:41:01,425 - Page 'Process Logs' opened.
+2025-01-02 16:41:01,436 - Page 'Process Logs' closed.
+2025-01-02 16:41:01,436 - Page 'Process Logs' closed.
+2025-01-02 16:41:12,618 - Page 'Process Logs' opened.
+2025-01-02 16:41:12,618 - Page 'Process Logs' opened.
+2025-01-02 16:41:12,631 - Page 'Process Logs' closed.
+2025-01-02 16:41:12,631 - Page 'Process Logs' closed.
+2025-01-02 16:42:07,400 - Page 'Process Logs' opened.
+2025-01-02 16:42:07,400 - Page 'Process Logs' opened.
+2025-01-02 16:42:07,414 - Page 'Process Logs' closed.
+2025-01-02 16:42:07,414 - Page 'Process Logs' closed.
+2025-01-02 16:44:51,659 - Next wakeup is due at 2025-01-02 17:44:51.644936+05:30 (in 3599.984998 seconds)
+2025-01-02 16:44:51,803 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-02 16:44:51,803 - Added job "auto_check_for_duplicates" to job store "default"
+2025-01-02 16:44:51,804 - Scheduler started
+2025-01-02 16:44:51,805 - Looking for jobs to run
+2025-01-02 16:44:51,811 - Next wakeup is due at 2025-01-02 17:44:51.802936+05:30 (in 3599.991001 seconds)
+2025-01-02 16:44:51,811 - Next wakeup is due at 2025-01-02 17:44:51.802936+05:30 (in 3599.991001 seconds)
+2025-01-02 16:44:55,983 - Page 'Process Logs' opened.
+2025-01-02 16:44:55,983 - Page 'Process Logs' opened.
+2025-01-02 16:44:56,003 - Page 'Process Logs' closed.
+2025-01-02 16:44:56,003 - Page 'Process Logs' closed.
+2025-01-02 16:44:58,127 - Page 'Process Logs' opened.
+2025-01-02 16:44:58,127 - Page 'Process Logs' opened.
+2025-01-02 16:44:58,140 - Page 'Process Logs' closed.
+2025-01-02 16:44:58,140 - Page 'Process Logs' closed.
+2025-01-02 16:45:06,228 - Page 'Process Logs' opened.
+2025-01-02 16:45:06,228 - Page 'Process Logs' opened.
+2025-01-02 16:45:06,259 - Page 'Process Logs' closed.
+2025-01-02 16:45:06,259 - Page 'Process Logs' closed.
+2025-01-02 16:45:08,260 - Page 'Process Logs' opened.
+2025-01-02 16:45:08,260 - Page 'Process Logs' opened.
+2025-01-02 16:45:08,277 - Page 'Process Logs' closed.
+2025-01-02 16:45:08,277 - Page 'Process Logs' closed.
+2025-01-02 16:45:08,991 - Page 'Process Logs' opened.
+2025-01-02 16:45:08,991 - Page 'Process Logs' opened.
+2025-01-02 16:45:09,003 - Page 'Process Logs' closed.
+2025-01-02 16:45:09,003 - Page 'Process Logs' closed.
+2025-01-02 16:45:09,717 - Page 'Process Logs' opened.
+2025-01-02 16:45:09,717 - Page 'Process Logs' opened.
+2025-01-02 16:45:09,738 - Page 'Process Logs' closed.
+2025-01-02 16:45:09,738 - Page 'Process Logs' closed.
+2025-01-02 16:45:09,955 - Page 'Process Logs' opened.
+2025-01-02 16:45:09,955 - Page 'Process Logs' opened.
+2025-01-02 16:45:09,976 - Page 'Process Logs' closed.
+2025-01-02 16:45:09,976 - Page 'Process Logs' closed.
+2025-01-02 16:45:10,174 - Page 'Process Logs' opened.
+2025-01-02 16:45:10,174 - Page 'Process Logs' opened.
+2025-01-02 16:45:10,185 - Page 'Process Logs' closed.
+2025-01-02 16:45:10,185 - Page 'Process Logs' closed.
+2025-01-02 16:45:10,398 - Page 'Process Logs' opened.
+2025-01-02 16:45:10,398 - Page 'Process Logs' opened.
+2025-01-02 16:45:10,410 - Page 'Process Logs' closed.
+2025-01-02 16:45:10,410 - Page 'Process Logs' closed.
+2025-01-02 16:45:10,590 - Page 'Process Logs' opened.
+2025-01-02 16:45:10,590 - Page 'Process Logs' opened.
+2025-01-02 16:45:10,601 - Page 'Process Logs' closed.
+2025-01-02 16:45:10,601 - Page 'Process Logs' closed.
+2025-01-02 16:45:10,806 - Page 'Process Logs' opened.
+2025-01-02 16:45:10,806 - Page 'Process Logs' opened.
+2025-01-02 16:45:10,817 - Page 'Process Logs' closed.
+2025-01-02 16:45:10,817 - Page 'Process Logs' closed.
+2025-01-02 16:45:11,006 - Page 'Process Logs' opened.
+2025-01-02 16:45:11,006 - Page 'Process Logs' opened.
+2025-01-02 16:45:11,017 - Page 'Process Logs' closed.
+2025-01-02 16:45:11,017 - Page 'Process Logs' closed.
+2025-01-02 16:45:11,206 - Page 'Process Logs' opened.
+2025-01-02 16:45:11,206 - Page 'Process Logs' opened.
+2025-01-02 16:45:11,217 - Page 'Process Logs' closed.
+2025-01-02 16:45:11,217 - Page 'Process Logs' closed.
+2025-01-02 16:45:11,391 - Page 'Process Logs' opened.
+2025-01-02 16:45:11,391 - Page 'Process Logs' opened.
+2025-01-02 16:45:11,401 - Page 'Process Logs' closed.
+2025-01-02 16:45:11,401 - Page 'Process Logs' closed.
+2025-01-02 16:47:28,532 - Page 'Process Logs' opened.
+2025-01-02 16:47:28,532 - Page 'Process Logs' opened.
+2025-01-02 16:47:28,557 - Page 'Process Logs' closed.
+2025-01-02 16:47:28,557 - Page 'Process Logs' closed.
+2025-01-02 16:47:32,396 - Page 'Process Logs' opened.
+2025-01-02 16:47:32,396 - Page 'Process Logs' opened.
+2025-01-02 16:47:32,418 - Page 'Process Logs' closed.
+2025-01-02 16:47:32,418 - Page 'Process Logs' closed.
+2025-01-02 16:59:08,064 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-02 16:59:08,065 - Added job "auto_check_for_duplicates" to job store "default"
+2025-01-02 16:59:08,065 - Scheduler started
+2025-01-02 16:59:08,067 - Looking for jobs to run
+2025-01-02 16:59:08,076 - Next wakeup is due at 2025-01-02 17:59:08.064306+05:30 (in 3599.988000 seconds)
+2025-01-02 16:59:08,076 - Next wakeup is due at 2025-01-02 17:59:08.064306+05:30 (in 3599.988000 seconds)
+2025-01-02 16:59:10,272 - Next wakeup is due at 2025-01-02 17:59:10.261406+05:30 (in 3599.989998 seconds)
+2025-01-02 16:59:10,394 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-02 16:59:10,395 - Added job "auto_check_for_duplicates" to job store "default"
+2025-01-02 16:59:10,395 - Scheduler started
+2025-01-02 16:59:10,396 - Looking for jobs to run
+2025-01-02 16:59:10,402 - Next wakeup is due at 2025-01-02 17:59:10.394411+05:30 (in 3599.992006 seconds)
+2025-01-02 16:59:10,402 - Next wakeup is due at 2025-01-02 17:59:10.394411+05:30 (in 3599.992006 seconds)
+2025-01-02 17:01:02,108 - Next wakeup is due at 2025-01-02 18:01:02.097778+05:30 (in 3599.989002 seconds)
+2025-01-02 17:01:02,228 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-02 17:01:02,229 - Added job "auto_check_for_duplicates" to job store "default"
+2025-01-02 17:01:02,229 - Scheduler started
+2025-01-02 17:01:02,230 - Looking for jobs to run
+2025-01-02 17:01:02,236 - Next wakeup is due at 2025-01-02 18:01:02.228773+05:30 (in 3599.992000 seconds)
+2025-01-02 17:01:02,236 - Next wakeup is due at 2025-01-02 18:01:02.228773+05:30 (in 3599.992000 seconds)
+2025-01-02 17:02:07,198 - Next wakeup is due at 2025-01-02 18:02:07.185228+05:30 (in 3599.986999 seconds)
+2025-01-02 17:02:07,327 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-02 17:02:07,327 - Added job "auto_check_for_duplicates" to job store "default"
+2025-01-02 17:02:07,328 - Scheduler started
+2025-01-02 17:02:07,329 - Looking for jobs to run
+2025-01-02 17:02:07,334 - Next wakeup is due at 2025-01-02 18:02:07.327231+05:30 (in 3599.993002 seconds)
+2025-01-02 17:02:07,334 - Next wakeup is due at 2025-01-02 18:02:07.327231+05:30 (in 3599.993002 seconds)
+2025-01-02 17:03:16,840 - Next wakeup is due at 2025-01-02 18:03:16.828660+05:30 (in 3599.988002 seconds)
+2025-01-02 17:03:16,972 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-02 17:03:16,972 - Added job "auto_check_for_duplicates" to job store "default"
+2025-01-02 17:03:16,973 - Scheduler started
+2025-01-02 17:03:16,973 - Looking for jobs to run
+2025-01-02 17:03:16,979 - Next wakeup is due at 2025-01-02 18:03:16.972605+05:30 (in 3599.993005 seconds)
+2025-01-02 17:03:16,979 - Next wakeup is due at 2025-01-02 18:03:16.972605+05:30 (in 3599.993005 seconds)
+2025-01-02 17:04:12,239 - Next wakeup is due at 2025-01-02 18:04:12.226267+05:30 (in 3599.987001 seconds)
+2025-01-02 17:04:12,373 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-02 17:04:12,374 - Added job "auto_check_for_duplicates" to job store "default"
+2025-01-02 17:04:12,375 - Scheduler started
+2025-01-02 17:04:12,377 - Looking for jobs to run
+2025-01-02 17:04:12,382 - Next wakeup is due at 2025-01-02 18:04:12.373274+05:30 (in 3599.991006 seconds)
+2025-01-02 17:04:12,382 - Next wakeup is due at 2025-01-02 18:04:12.373274+05:30 (in 3599.991006 seconds)
+2025-01-02 17:05:36,004 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-02 17:05:36,005 - Added job "auto_check_for_duplicates" to job store "default"
+2025-01-02 17:05:36,005 - Scheduler started
+2025-01-02 17:05:36,006 - Looking for jobs to run
+2025-01-02 17:05:36,012 - Next wakeup is due at 2025-01-02 18:05:36.003071+05:30 (in 3599.991003 seconds)
+2025-01-02 17:05:36,012 - Next wakeup is due at 2025-01-02 18:05:36.003071+05:30 (in 3599.991003 seconds)
+2025-01-02 17:05:49,354 - Looking for jobs to run
+2025-01-02 17:05:49,366 - Next wakeup is due at 2025-01-02 18:05:49.348163+05:30 (in 3599.982000 seconds)
+2025-01-02 17:05:49,500 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-02 17:05:49,500 - Added job "auto_check_for_duplicates" to job store "default"
+2025-01-02 17:05:49,500 - Scheduler started
+2025-01-02 17:05:49,501 - Looking for jobs to run
+2025-01-02 17:05:49,507 - Next wakeup is due at 2025-01-02 18:05:49.499164+05:30 (in 3599.992000 seconds)
+2025-01-02 17:05:49,507 - Next wakeup is due at 2025-01-02 18:05:49.499164+05:30 (in 3599.992000 seconds)
+2025-01-02 17:05:53,528 - Next wakeup is due at 2025-01-02 18:05:53.515234+05:30 (in 3599.987002 seconds)
+2025-01-02 17:05:53,660 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-02 17:05:53,660 - Added job "auto_check_for_duplicates" to job store "default"
+2025-01-02 17:05:53,661 - Scheduler started
+2025-01-02 17:05:53,662 - Looking for jobs to run
+2025-01-02 17:05:53,667 - Next wakeup is due at 2025-01-02 18:05:53.660235+05:30 (in 3599.993001 seconds)
+2025-01-02 17:05:53,667 - Next wakeup is due at 2025-01-02 18:05:53.660235+05:30 (in 3599.993001 seconds)
+2025-01-02 17:10:24,323 - Next wakeup is due at 2025-01-02 18:10:24.311732+05:30 (in 3599.988008 seconds)
+2025-01-02 17:10:24,473 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-02 17:10:24,473 - Added job "auto_check_for_duplicates" to job store "default"
+2025-01-02 17:10:24,473 - Scheduler started
+2025-01-02 17:10:24,474 - Looking for jobs to run
+2025-01-02 17:10:24,480 - Next wakeup is due at 2025-01-02 18:10:24.472836+05:30 (in 3599.992005 seconds)
+2025-01-02 17:10:24,480 - Next wakeup is due at 2025-01-02 18:10:24.472836+05:30 (in 3599.992005 seconds)
+2025-01-02 17:20:17,379 - Next wakeup is due at 2025-01-02 18:20:17.366428+05:30 (in 3599.987000 seconds)
+2025-01-02 17:20:34,201 - Next wakeup is due at 2025-01-02 18:20:34.191795+05:30 (in 3599.990001 seconds)
+2025-01-02 17:20:34,330 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-02 17:20:34,330 - Added job "auto_check_for_duplicates" to job store "default"
+2025-01-02 17:20:34,330 - Scheduler started
+2025-01-02 17:20:34,331 - Looking for jobs to run
+2025-01-02 17:20:34,338 - Next wakeup is due at 2025-01-02 18:20:34.329794+05:30 (in 3599.990996 seconds)
+2025-01-02 17:20:34,338 - Next wakeup is due at 2025-01-02 18:20:34.329794+05:30 (in 3599.990996 seconds)
+2025-01-02 17:20:36,377 - Next wakeup is due at 2025-01-02 18:20:36.366571+05:30 (in 3599.989000 seconds)
+2025-01-02 17:20:36,495 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-02 17:20:36,496 - Added job "auto_check_for_duplicates" to job store "default"
+2025-01-02 17:20:36,496 - Scheduler started
+2025-01-02 17:20:36,497 - Looking for jobs to run
+2025-01-02 17:20:36,502 - Next wakeup is due at 2025-01-02 18:20:36.495570+05:30 (in 3599.993001 seconds)
+2025-01-02 17:20:36,502 - Next wakeup is due at 2025-01-02 18:20:36.495570+05:30 (in 3599.993001 seconds)
+2025-01-02 18:20:34,204 - Looking for jobs to run
+2025-01-02 18:20:34,204 - Looking for jobs to run
+2025-01-02 18:20:34,205 - Running job "auto_check_for_duplicates (trigger: interval[1:00:00], next run at: 2025-01-02 19:20:34 IST)" (scheduled at 2025-01-02 18:20:34.191795+05:30)
+2025-01-02 18:20:34,205 - Running job "auto_check_for_duplicates (trigger: interval[1:00:00], next run at: 2025-01-02 19:20:34 IST)" (scheduled at 2025-01-02 18:20:34.191795+05:30)
+2025-01-02 18:20:34,205 - Next wakeup is due at 2025-01-02 19:20:34.191795+05:30 (in 3599.986208 seconds)
+2025-01-02 18:20:34,205 - Next wakeup is due at 2025-01-02 19:20:34.191795+05:30 (in 3599.986208 seconds)
+2025-01-02 18:20:34,264 - Job "auto_check_for_duplicates (trigger: interval[1:00:00], next run at: 2025-01-02 19:20:34 IST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\#balaji\AppData\Roaming\Python\Python312\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\khc\VIKAS CRM\app.py", line 3536, in auto_check_for_duplicates
+    view_duplicates()
+  File "E:\khc\VIKAS CRM\app.py", line 3614, in view_duplicates
+    flash(f"Error fetching duplicates: {e}", 'danger')
+  File "C:\Users\#balaji\AppData\Roaming\Python\Python312\site-packages\flask\helpers.py", line 321, in flash
+    flashes = session.get("_flashes", [])
+              ^^^^^^^^^^^
+  File "C:\Users\#balaji\AppData\Roaming\Python\Python312\site-packages\werkzeug\local.py", line 318, in __get__
+    obj = instance._get_current_object()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\#balaji\AppData\Roaming\Python\Python312\site-packages\werkzeug\local.py", line 519, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-01-02 18:20:34,264 - Job "auto_check_for_duplicates (trigger: interval[1:00:00], next run at: 2025-01-02 19:20:34 IST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\#balaji\AppData\Roaming\Python\Python312\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\khc\VIKAS CRM\app.py", line 3536, in auto_check_for_duplicates
+    view_duplicates()
+  File "E:\khc\VIKAS CRM\app.py", line 3614, in view_duplicates
+    flash(f"Error fetching duplicates: {e}", 'danger')
+  File "C:\Users\#balaji\AppData\Roaming\Python\Python312\site-packages\flask\helpers.py", line 321, in flash
+    flashes = session.get("_flashes", [])
+              ^^^^^^^^^^^
+  File "C:\Users\#balaji\AppData\Roaming\Python\Python312\site-packages\werkzeug\local.py", line 318, in __get__
+    obj = instance._get_current_object()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\#balaji\AppData\Roaming\Python\Python312\site-packages\werkzeug\local.py", line 519, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-01-02 18:20:34,346 - Looking for jobs to run
+2025-01-02 18:20:34,346 - Looking for jobs to run
+2025-01-02 18:20:34,347 - Running job "auto_check_for_duplicates (trigger: interval[1:00:00], next run at: 2025-01-02 19:20:34 IST)" (scheduled at 2025-01-02 18:20:34.329794+05:30)
+2025-01-02 18:20:34,347 - Running job "auto_check_for_duplicates (trigger: interval[1:00:00], next run at: 2025-01-02 19:20:34 IST)" (scheduled at 2025-01-02 18:20:34.329794+05:30)
+2025-01-02 18:20:34,347 - Next wakeup is due at 2025-01-02 19:20:34.329794+05:30 (in 3599.982199 seconds)
+2025-01-02 18:20:34,347 - Next wakeup is due at 2025-01-02 19:20:34.329794+05:30 (in 3599.982199 seconds)
+2025-01-02 18:20:34,650 - Job "auto_check_for_duplicates (trigger: interval[1:00:00], next run at: 2025-01-02 19:20:34 IST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\#balaji\AppData\Roaming\Python\Python312\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\khc\VIKAS CRM\app.py", line 3536, in auto_check_for_duplicates
+    view_duplicates()
+  File "E:\khc\VIKAS CRM\app.py", line 3614, in view_duplicates
+    flash(f"Error fetching duplicates: {e}", 'danger')
+  File "C:\Users\#balaji\AppData\Roaming\Python\Python312\site-packages\flask\helpers.py", line 321, in flash
+    flashes = session.get("_flashes", [])
+              ^^^^^^^^^^^
+  File "C:\Users\#balaji\AppData\Roaming\Python\Python312\site-packages\werkzeug\local.py", line 318, in __get__
+    obj = instance._get_current_object()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\#balaji\AppData\Roaming\Python\Python312\site-packages\werkzeug\local.py", line 519, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-01-02 18:20:34,650 - Job "auto_check_for_duplicates (trigger: interval[1:00:00], next run at: 2025-01-02 19:20:34 IST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\#balaji\AppData\Roaming\Python\Python312\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\khc\VIKAS CRM\app.py", line 3536, in auto_check_for_duplicates
+    view_duplicates()
+  File "E:\khc\VIKAS CRM\app.py", line 3614, in view_duplicates
+    flash(f"Error fetching duplicates: {e}", 'danger')
+  File "C:\Users\#balaji\AppData\Roaming\Python\Python312\site-packages\flask\helpers.py", line 321, in flash
+    flashes = session.get("_flashes", [])
+              ^^^^^^^^^^^
+  File "C:\Users\#balaji\AppData\Roaming\Python\Python312\site-packages\werkzeug\local.py", line 318, in __get__
+    obj = instance._get_current_object()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\#balaji\AppData\Roaming\Python\Python312\site-packages\werkzeug\local.py", line 519, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.

@@ -1,0 +1,116 @@
+{
+    "total customer": [
+        "The total number of customers is: {value}",
+        "Currently, we have {value} customers in our database."
+    ],
+    "repeat orders": [
+        "Repeat Orders: {value}",
+        "Total repeat orders so far: {value}"
+    ],
+    "new orders": [
+        "New Orders: {value}",
+        "We have received {value} new orders today."
+    ],
+    "total repeat customers": [
+        "Total Repeat Customers: {value}",
+        "Customers who placed repeat orders: {value}"
+    ],
+    "total entries": [
+        "Total Entries (All Orders): {value}",
+        "All recorded order entries: {value}"
+    ],
+    "transport info": [
+        "Transport Info for {city}, {state}: {info}",
+        "Here is the transport information for {city}, {state}: {info}"
+    ],
+    "what is your name": [
+        "My name is CRM Bot.",
+        "You can call me CRM Bot.",
+        "I'm CRM Bot, at your service.",
+        "CRM Bot here! How can I assist you?"
+    ],
+    "hello": [
+        "Hello there! How can I assist you?",
+        "Hi! What do you need help with?",
+        "Greetings! How may I serve you?",
+        "Hey! How’s your day going?"
+    ],
+    "how are you": [
+        "I'm doing well, thank you!",
+        "All good here!",
+        "I'm fine, thanks for asking.",
+        "Feeling great and ready to assist you!"
+    ],
+    "help": [
+        "Sure, what do you need help with?",
+        "I'm here to assist! Please let me know your query.",
+        "How can I help you today?",
+        "Tell me what you need, and I'll do my best to assist."
+    ],
+    "bye": [
+        "Goodbye! Have a great day.",
+        "Bye! Feel free to reach out if you need more assistance.",
+        "See you later! Take care.",
+        "Signing off! Have a productive day ahead."
+    ],
+    "good morning": [
+        "Good morning! How can I help you today?",
+        "Morning! Hope you have a fantastic day ahead.",
+        "Good morning! What can I do for you?",
+        "Wishing you a bright and cheerful morning!"
+    ],
+    "good afternoon": [
+        "Good afternoon! How can I assist you?",
+        "Afternoon! What do you need help with?",
+        "Hello, good afternoon! How may I serve you?",
+        "Hope your afternoon is going well! How can I help?"
+    ],
+    "good evening": [
+        "Good evening! How can I help you?",
+        "Evening! What can I do for you?",
+        "Good evening! Hope you're having a pleasant night.",
+        "Relax and enjoy your evening! Let me know if you need assistance."
+    ],
+    "thank you": [
+        "You're welcome!",
+        "No problem, happy to help!",
+        "Anytime! Glad I could assist.",
+        "You're very welcome! Need anything else?"
+    ],
+    "thanks": [
+        "You're welcome!",
+        "No problem at all!",
+        "My pleasure!",
+        "Happy to help! Let me know if you need more assistance."
+    ],
+    "what can you do": [
+        "I can help answer your questions and provide you with CRM data insights.",
+        "I'm here to assist with your CRM queries. Ask me anything!",
+        "I can fetch customer data, order statistics, transport info, and more.",
+        "I assist with data retrieval, order tracking, and customer insights."
+    ],
+    "order status": [
+        "Please provide the order ID to check its status.",
+        "Let me know the order ID, and I'll fetch the latest status for you.",
+        "I can check the status of any order. Just provide the order number!"
+    ],
+    "customer details": [
+        "Provide the customer ID or name, and I'll fetch the details.",
+        "I can get customer information for you. Just share the details!",
+        "Tell me the customer name or ID, and I'll show their details."
+    ],
+    "default": [
+        "I'm not sure how to respond to that. Could you please clarify?",
+        "I didn't quite get that. Can you rephrase your question?",
+        "Sorry, can you provide more details so I can help?",
+        "I'm still learning! Can you ask in a different way?"
+    ],
+    
+    "hi": [
+    "Hello there! How can I assist you?",
+    "Hi! What do you need help with?",
+    "Greetings! How may I serve you?",
+    "Hey! How’s your day going?"
+]
+
+}
