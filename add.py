@@ -484,8 +484,8 @@ def ocr_from_image_or_pdf(file_bytes, filename):
         logger.error(f"OCR error on file {filename}: {e}")
         return ''
 
-@add_customer_bp.route('/add_customer', methods=['GET', 'POST'])
-def add_customer():
+@add_customer_bp.route('/add_special')
+def add_customer_special():
     extracted_text = ''
     data = {
         'khc code': '',
